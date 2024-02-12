@@ -9,17 +9,11 @@ Tanzania is the largest country in East Africa with a population of approximatel
  -Identifying non-functional and in-need-of-repair wells to optimize resource allocation and maximize their impact in providing clean water access.
 
 # Objective
-
-The statement highlights Tanzania's struggle to provide clean water to its large population due to issues with existing water points. It poses several questions for analysis:
-
-Factors contributing to good functionality, include the influence of water sources, the age of wells, and the impact of public meetings.
-1. The most effective mode of payment for good maintenance.
-2. Utilizing classification methods to analyze a dataset and determine the best approach for improving functionality.
-3. This analysis aims to benefit the Government Ministry of Water and NGOs working in Tanzania to address the challenges related to clean water provision.
+Tanzania faces difficulties in providing clean water to its population of over 57 million due to issues with existing water points. Some wells need repairs, while others have failed altogether. To address this, an analysis is conducted to understand factors affecting well functionality, such as water source, age of wells, and the impact of public meetings. Additionally, the analysis aims to determine the best mode of payment for wells maintenance and utilize classification methods to identify the most effective strategies for improving well functionality. This analysis is intended to support the Government Ministry of Water and NGOs in their efforts to ensure access to clean water for Tanzanian communities.
 
 # Data Understanding
 
-Data was obtained from the Taarifa waterpoints dashboard which aggregates data from the Tanzania Ministry of Water. The data collected contains features related to water pumps such as geographic location, water quality, organizations that build and manage them, and population among others. The target feature is a 'status group with three possible values of functional, non-functional, and functional-need-repairs.
+Data was obtained from the Taarifa waterpoints dashboard which aggregates data from the Tanzania Ministry of Water. The data collected contains features related to water pumps such as geographic location, water quality, organizations that build and manage them, and population among others. The target feature is a 'status group with three possible values functional, non-functional, and functional-need-repairs.
 
 ![Age vs functionality](https://github.com/JohnNkakuyia/Tanzania_waterFall_Predictions/blob/main/images/age_wel.jpg)
 
