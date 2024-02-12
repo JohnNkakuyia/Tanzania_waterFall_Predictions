@@ -18,7 +18,6 @@ Data was obtained from the Taarifa waterpoints dashboard which aggregates data f
 
 ![Age vs functionality](https://github.com/JohnNkakuyia/Tanzania_waterFall_Predictions/blob/main/images/age_wel.jpg)
 
-![age against functionality](https://github.com/JohnNkakuyia/Tanzania_waterFall_Predictions/blob/main/images/age_wel.jpg)
 
 # Modeling
 
