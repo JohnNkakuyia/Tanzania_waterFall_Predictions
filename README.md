@@ -25,6 +25,9 @@ Three models were run on the data; XGBoost, LinearSVC and RandomForest.
 ![svm](https://github.com/JohnNkakuyia/Tanzania_waterFall_Predictions/blob/main/images/svm_con.jpg)
 # Evaluation
 ![best model](https://github.com/JohnNkakuyia/Tanzania_waterFall_Predictions/blob/main/images/model_output.jpg)
+
+From the perfomance evaluation XgBoost have highest accuracy.and also using
+other perfomance evaluation precision value is high for XgBoost .so we choose XgBoost is the best model
 # Conclusion
 
 Groundwater is very important to maintain the functionality of the wells.Almost, the entire water supply to the wells is dependent on groundwater. Hence, we would look into different methods such as rainwater harvesting and soil conservation which would also help sustain more water in the lakes.
