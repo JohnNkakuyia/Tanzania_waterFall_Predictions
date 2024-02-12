@@ -16,6 +16,8 @@ The goal is to build a classifier using data points like pump type, installation
 
 Data was obtained from the Taarifa waterpoints dashboard which aggregates data from the Tanzania Ministry of Water. The data collected contains features related to water pumps such as geographic location, water quality, organizations that build and manage them and population among others. The target feature is 'status group'with three possible values of functional, non-functional and functional-need-repairs.
 
+![Age vs functionality](https://github.com/JohnNkakuyia/Tanzania_waterFall_Predictions/blob/main/images/age_wel.jpg)
+
 ![age against functionality](https://github.com/JohnNkakuyia/Tanzania_waterFall_Predictions/blob/main/images/age_wel.jpg)
 
 # Modeling
